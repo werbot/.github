@@ -1,10 +1,10 @@
 <p align="center">
     <a href="https://werbot.com" target="_blank">
-        <img width="300" src="/img/yellow/text.svg" alt="Werbot Logo">
+        <img width="200" src="/img/yellow/logo.svg" alt="Werbot Logo">
     </a>
 </p>
 
-<h3 align="center">Single sign-on solution for easy and secure sharing of server access</h3>
+<h3 align="center"><p style="display:inline;background:#F6C90C;padding: 4px;">Werbot</p>&nbsp;is a single sign-on solution for easy and secure sharing of servers, databases or app access</h3>
 
 <br>
 
