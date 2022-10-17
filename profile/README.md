@@ -4,7 +4,7 @@
     </a>
 </p>
 
-<h3 align="center"><p style="display:inline;background:#F6C90C;padding: 4px;">Werbot</p>&nbsp;is a single sign-on solution for easy and secure sharing of servers, databases or app access</h3>
+<h3 align="center">Werbot is a single sign-on solution for easy and secure sharing of servers, databases or app access</h3>
 
 <br>
 
