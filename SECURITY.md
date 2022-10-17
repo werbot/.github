@@ -12,4 +12,3 @@ Please report any issues or vulnerabilities to `security[@]werbot.com`, instead 
 - Any special configuration required to reproduce the issue
 - Step-by-step instructions to reproduce the issue
 - Proof of concept or exploit code, if available
-
